@@ -1,0 +1,16 @@
+{
+  "short_name": "KittyShiba",
+  "name": "Doge King",
+  "description": "KittyShiba | A Decentralized & Unique way to Earn.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
