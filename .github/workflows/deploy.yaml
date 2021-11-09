@@ -20,7 +20,7 @@ jobs:
       - name: Pin to IPFS  
         uses: anantaramdas/ipfs-pinata-deploy-action@39bbda1ce1fe24c69c6f57861b8038278d53688d
         with:
-          pin-name: 'dogeking'
+          pin-name: 'KittyShiba-v1'
           path: './public'
           pinata-api-key: e2841d68ace418ccd532
           pinata-secret-api-key: a5da8336d9c088218675d8a4164b0a564446dd72ff9ae46fd5f8f3dcd5c641f1
